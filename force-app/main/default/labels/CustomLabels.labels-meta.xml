@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Add_Review</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Review</shortDescription>
+        <value>Add Review</value>
+    </labels>
+    <labels>
+        <fullName>Details</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Details</shortDescription>
+        <value>Details</value>
+    </labels>
+    <labels>
+        <fullName>Full_Details</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Full Details</shortDescription>
+        <value>Full Details</value>
+    </labels>
+    <labels>
+        <fullName>Inventory_Level_Low</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Inventory Level Low</shortDescription>
+        <value>Has a low inventory</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_a_boat</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Please select a boat</shortDescription>
+        <value>Please select a boat :)</value>
+    </labels>
+    <labels>
+        <fullName>Reviews</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Reviews</shortDescription>
+        <value>Reviews</value>
+    </labels>
+    <labels>
+        <fullName>Select_One</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Select One</shortDescription>
+        <value>Select one</value>
+    </labels>
+</CustomLabels>
