@@ -77,7 +77,7 @@ public with sharing class Product2Extension{
     public class ProductWrapper{
         public Product2 productRecord{ get; set; }
 
-        public PriceBookEntry pricebookEntryRecord{ get; set; }
+        public PriceBookEntry pricebookEntryRecord{ get; set; }//junction object of product2 and pricbook 
 
         public ProductWrapper(){
             productRecord = new Product2(Initial_Inventory__c = 0);
