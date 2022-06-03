@@ -2,7 +2,6 @@
 * @name TestDataFactory
 * @description Contains methods to construct and/or validate commonly used records
 **/
-//@isTest
 public with sharing class TestDataFactory{
     
     //@name ConstructCollaborationGroup
